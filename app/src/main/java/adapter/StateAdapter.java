@@ -9,7 +9,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.anshutiwari.covid19tracker.R;
+import com.anshutiwari.splashscreen.R;
 
 import java.util.ArrayList;
 

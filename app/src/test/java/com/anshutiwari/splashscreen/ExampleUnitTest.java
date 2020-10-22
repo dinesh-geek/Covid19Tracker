@@ -1,4 +1,4 @@
-package com.anshutiwari.covid19tracker;
+package com.anshutiwari.splashscreen;
 
 import org.junit.Test;
 
